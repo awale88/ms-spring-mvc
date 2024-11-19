@@ -1,0 +1,10 @@
+{
+  "message": "Product updated successfully",
+  "status": "UPDATED",
+  "data": {
+      "id": "1",
+      "name": "Z",
+      "price": 1.00,
+      "description": "descZ"
+    }
+}

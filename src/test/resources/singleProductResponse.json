@@ -1,0 +1,10 @@
+{
+  "message": "Product found",
+  "status": "SUCCESS",
+  "data": {
+    "id": "1",
+    "name": "A",
+    "price": 1.0,
+    "description": "descA"
+  }
+}

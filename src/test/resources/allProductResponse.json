@@ -1,0 +1,18 @@
+{
+  "message": "Products retrieved successfully",
+  "status": "SUCCESS",
+  "data": [
+    {
+      "id": "1",
+      "name": "A",
+      "price": 1.0,
+      "description": "Prod-A"
+    },
+    {
+      "id": "2",
+      "name": "B",
+      "price": 2.0,
+      "description": "Prod-B"
+    }
+  ]
+}
